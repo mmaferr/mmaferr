@@ -23,5 +23,5 @@ Oie, mafer aqui!
   <a href = "mariafernandamoraiscastro0105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/karoline-novais-rezende-45582b213/](https://www.linkedin.com/in/maria-fernanda-morais-castro-b6360b268/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
- ![Snake animation](https://github.com/karolrezende/karolrezende/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/mmaferr/mmaferr/blob/output/github-contribution-grid-snake.svg)
 </div>
