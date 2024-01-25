@@ -13,7 +13,7 @@ Oie, mafer aqui!
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />   
   <img align="center" alt="NODE" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="right" alt="PIC" height="170" width="246" style="border-radius:100px;" src="https://media0.giphy.com/media/BferOKonYOspm28AiB/giphy.gif">
+  <img align="right" alt="PIC" height="170" width="246" border-radius:"100px" ;" src="https://media0.giphy.com/media/BferOKonYOspm28AiB/giphy.gif">
 </div>
   
    ##
