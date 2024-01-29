@@ -56,7 +56,7 @@
   <img width="20" />
   <a href="https://www.linkedin.com/in/maria-fernanda-morais-castro-b6360b268/"><img src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" height="34" alt="LinkedIn"/></a>
   <img width="20" />
-  <a href="https://www.instagram.com/maferrrrrrrrr/"><img src="https://cdn-icons-png.flaticon.com/128/3938/3938051.png" height="34" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/maferrrrrrrrr_/"><img src="https://cdn-icons-png.flaticon.com/128/3938/3938051.png" height="34" alt="Instagram"/></a>
   <img width="20" />
 </div>
 
