@@ -1,6 +1,3 @@
-<!-- Ondas Início -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=135a00&height=90&section=header"/>
-
 <!-- Oii! Eu sou a Maria Fernanda -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF00&random=false&width=1100&lines=Oii+eu+sou+a+Maria+Fernanda!)](https://git.io/typing-svg)
 <br>
